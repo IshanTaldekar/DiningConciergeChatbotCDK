@@ -6,9 +6,13 @@
   },
   "type": "commonjs",
   "devDependencies": {
+    "@elastic/elasticsearch": "^8.10.0",
     "@types/aws-lambda": "^8.10.122",
     "aws-lambda": "^1.0.7",
-    "aws-sdk": "^2.1473.0",
-    "@elastic/elasticsearch": "^8.10.0",
+    "aws-sdk": "^2.1473.0"
+  },
+  "dependencies": {
+    "@aws-sdk/client-ses": "^3.428.0",
+    "axios": "^1.5.1"
   }
 }

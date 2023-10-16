@@ -21,6 +21,7 @@ async function getRestaurantId(cuisine: string) {
 
     let restaurantId: string | null = null;
     try {
+        console.log(`${process.env.ES_URL}/${process.env.ES_IDX}`)
         const response = await axios.get(`${process.env.ES_URL}/${process.env.ES_IDX}`,
             {
                 params: { query: 'chinese' },

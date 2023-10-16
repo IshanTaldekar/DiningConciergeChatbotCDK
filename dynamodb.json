@@ -1,0 +1,1180 @@
+{ "index": { "_index": "restaurants", "_id": "pBNMZp_tKCAfRNx7-ybcHQ" } }
+{
+  "name": "Calle Dao Chelsea",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/OI1LX38k0O11bu0ZLVZFaQ/o.jpg",
+  "url": "https://www.yelp.com/biz/calle-dao-chelsea-new-york-3?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 1047,
+  "location": {
+    "address1": "461 W 23rd St",
+    "address2": "",
+    "address3": null,
+    "city": "New York",
+    "zip_code": "10011",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12124144104"
+  },
+  "cuisine": "Mexican"
+}
+
+{ "index": { "_index": "restaurants", "_id": "hkooeEkd3oPsLD6JJrYpjA" } }
+{
+  "name": "Café Luce",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/d5mhlvOqWLPdc_nl_KLaLg/o.jpg",
+  "url": "https://www.yelp.com/biz/caf%C3%A9-luce-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 147,
+  "location": {
+    "address1": "235 E 53rd St",
+    "city": "New York",
+    "zip_code": "10022",
+    "country": "US",
+    "state": "NY",
+    "phone": "+16465902777"
+  },
+  "cuisine": "Mexican"
+}
+
+{ "index": { "_index": "restaurants", "_id": "B3_K2kUVbYOU0VaLcj_LTw" } }
+{
+  "name": "Thai Villa",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/IxshIBNsepDEtW9NB2hX6Q/o.jpg",
+  "url": "https://www.yelp.com/biz/thai-villa-new-york-2?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 4820,
+  "location": {
+    "address1": "5 E 19th St",
+    "address2": "G Floor",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10003",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12128029999"
+  },
+  "cuisine": "Mexican"
+}
+
+{ "index": { "_index": "restaurants", "_id": "icpLRhJ1jpBX1zBGkt7Xqg" } }
+{
+  "name": "Teppen Ramen",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/frrduvlt8I9zSYGB_xeBdA/o.jpg",
+  "url": "https://www.yelp.com/biz/teppen-ramen-new-york-2?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 583,
+  "location": {
+    "address1": "159 E 55th St",
+    "address2": null,
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10022",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12123552974"
+  },
+  "cuisine": "Mexican"
+}
+
+{ "index": { "_index": "restaurants", "_id": "QPEzLkO35OTYijFhs8d7-w" } }
+{
+  "name": "The Reading Room",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ovd46uw3Xaq88j2AhlEOFg/o.jpg",
+  "url": "https://www.yelp.com/biz/the-reading-room-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 100,
+  "location": {
+    "address1": "16 E 46th St",
+    "address2": null,
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10017",
+    "country": "US",
+    "state": "NY",
+    "phone": "+16463962708"
+  },
+  "cuisine": "Mexican"
+}
+
+{ "index": { "_index": "restaurants", "_id": "xZ3XdZmOQp2iz56Af6XnVQ" } }
+{
+  "name": "Pasta Paradise",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/AbCdEfGhIjKlMnOpQrStUv/o.jpg",
+  "url": "https://www.yelp.com/biz/pasta-paradise-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 743,
+  "location": {
+    "address1": "123 Main St",
+    "city": "New York",
+    "zip_code": "10001",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12121234567"
+  },
+  "cuisine": "Mexican"
+}
+
+{ "index": { "_index": "restaurants", "_id": "aBcDeFgHiJkLmNoPqRsTu" } }
+{
+  "name": "Sushi Sensation",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/UVWXYZ0123456789AbCdEf/o.jpg",
+  "url": "https://www.yelp.com/biz/sushi-sensation-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 921,
+  "location": {
+    "address1": "456 Ocean Blvd",
+    "city": "New York",
+    "zip_code": "10002",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12129876543"
+  },
+  "cuisine": "Mexican"
+}
+
+{ "index": { "_index": "restaurants", "_id": "qRsTuVwXyZ0123456789A" } }
+{
+  "name": "Pizza Palace",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/JkLmNoPqRsTuvwWXYZ0123456789/o.jpg",
+  "url": "https://www.yelp.com/biz/pizza-palace-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 592,
+  "location": {
+    "address1": "789 Broadway",
+    "city": "New York",
+    "zip_code": "10003",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12126543210"
+  },
+  "cuisine": "Mexican"
+}
+
+{ "index": { "_index": "restaurants", "_id": "XYZ0123456789AbCdEfG" } }
+{
+  "name": "Burger Bistro",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/HijklMnOpQRsTuvWXYZ01234567/o.jpg",
+  "url": "https://www.yelp.com/biz/burger-bistro-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 847,
+  "location": {
+    "address1": "321 Park Avenue",
+    "city": "New York",
+    "zip_code": "10004",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12122334455"
+  },
+  "cuisine": "Mexican"
+}
+
+
+{ "index": { "_index": "restaurants", "_id": "12AbC34dEfGH5iJKL6mN7oPQrsT8uVW9" } }
+{
+  "name": "Taco Time",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/AbCdEfGH5iJKL6mN7oPQrsT/o.jpg",
+  "url": "https://www.yelp.com/biz/taco-time-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 624,
+  "location": {
+    "address1": "567 Main St",
+    "city": "New York",
+    "zip_code": "10005",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12123456789"
+  },
+  "cuisine": "Mexican"
+}
+
+{ "index": { "_index": "restaurants", "_id": "34dEfGH5iJKL6mN7oPQrsT8uVW912AbC" } }
+{
+  "name": "Sushi Delight",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/GH5iJKL6mN7oPQrsT8uVW912AbCdEf/o.jpg",
+  "url": "https://www.yelp.com/biz/sushi-delight-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 715,
+  "location": {
+    "address1": "789 Elm St",
+    "city": "New York",
+    "zip_code": "10006",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12122334456"
+  },
+  "cuisine": "Mexican"
+}
+
+{ "index": { "_index": "restaurants", "_id": "56mN7oPQrsT8uVW912AbCdEfGH5iJKL6" } }
+{
+  "name": "Burger Bliss",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/EFGH5iJKL6mN7oPQrsT8uVW912AbCd/o.jpg",
+  "url": "https://www.yelp.com/biz/burger-bliss-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 892,
+  "location": {
+    "address1": "987 Oak St",
+    "city": "New York",
+    "zip_code": "10007",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12123456790"
+  },
+  "cuisine": "Mexican"
+}
+
+{ "index": { "_index": "restaurants", "_id": "5iJKL6mN7oPQrsT8uVW912AbCdEfGH561" } }
+{
+  "name": "Pizza Paradise",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ijkl6mN7oPQrsT8uVW912AbCdEfGH5/o.jpg",
+  "url": "https://www.yelp.com/biz/pizza-paradise-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 624,
+  "location": {
+    "address1": "234 Pine St",
+    "city": "New York",
+    "zip_code": "10008",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12122334457"
+  },
+  "cuisine": "Mexican"
+}
+
+{ "index": { "_index": "restaurants", "_id": "L6mN7oPQrsT8uVW912AbCdEfGH561iJK" } }
+{
+  "name": "Café Corner",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/mN7oPQrsT8uVW912AbCdEfGH561iJKL/o.jpg",
+  "url": "https://www.yelp.com/biz/cafe-corner-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 732,
+  "location": {
+    "address1": "876 Birch St",
+    "city": "New York",
+    "zip_code": "10009",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12123456791"
+  },
+  "cuisine": "Mexican"
+}
+
+{ "index": { "_index": "restaurants", "_id": "N7oPQrsT8uVW912AbCdEfGH561iJKL6m" } }
+{
+  "name": "Mediterranean Flavors",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/67oPQrsT8uVW912AbCdEfGH561iJKL6mN/o.jpg",
+  "url": "https://www.yelp.com/biz/mediterranean-flavors-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 557,
+  "location": {
+    "address1": "765 Maple St",
+    "city": "New York",
+    "zip_code": "10010",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12122334458"
+  },
+  "cuisine": "Mexican"
+}
+
+{ "index": { "_index": "restaurants", "_id": "rsT8uVW912AbCdEfGH561iJKL6mN7oPQ" } }
+{
+  "name": "Taste of India",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/61iJKL6mN7oPQrsT8uVW912AbCdEfGH/o.jpg",
+  "url": "https://www.yelp.com/biz/taste-of-india-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 653,
+  "location": {
+    "address1": "654 Cedar St",
+    "city": "New York",
+    "zip_code": "10011",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12123456792"
+  },
+  "cuisine": "Mexican"
+}
+
+{ "index": { "_index": "restaurants", "_id": "T8uVW912AbCdEfGH561iJKL6mN7oPQrs" } }
+{
+  "name": "Mama Mia's Pizzeria",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/51iJKL6mN7oPQrsT8uVW912AbCdEfGH/o.jpg",
+  "url": "https://www.yelp.com/biz/mama-mias-pizzeria-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 786,
+  "location": {
+    "address1": "753 Willow St",
+    "city": "New York",
+    "zip_code": "10012",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12122334459"
+  },
+  "cuisine": "Mexican"
+}
+
+{ "index": { "__index": "restaurants", "_id": "AbCdEfGH561iJKL6mN7oPQrsT8uVW912" } }
+{
+  "name": "Cafe Parisien",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/41iJKL6mN7oPQrsT8uVW912AbCdEfGH/o.jpg",
+  "url": "https://www.yelp.com/biz/cafe-parisien-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 621,
+  "location": {
+    "address1": "852 Vine St",
+    "city": "New York",
+    "zip_code": "10013",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12123456793"
+  },
+  "cuisine": "Mexican"
+}
+
+{ "index": { "__index": "restaurants", "_id": "B561iJKL6mN7oPQrsT8uVW912AbCdEfGH" } }
+{
+  "name": "Tasty Tacos",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/31iJKL6mN7oPQrsT8uVW912AbCdEfGH/o.jpg",
+  "url": "https://www.yelp.com/biz/tasty-tacos-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 598,
+  "location": {
+    "address1": "951 Oakwood St",
+    "city": "New York",
+    "zip_code": "10014",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12122334460"
+  },
+  "cuisine": "Mexican"
+}
+
+{ "index": { "_index": "restaurants", "_id": "CdEfGH561iJKL6mN7oPQrsT8uVW912AbB" } }
+{
+  "name": "Szechuan Delight",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/21iJKL6mN7oPQrsT8uVW912AbCdEfGH/o.jpg",
+  "url": "https://www.yelp.com/biz/szechuan-delight-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 713,
+  "location": {
+    "address1": "253 Cedar St",
+    "city": "New York",
+    "zip_code": "10015",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12123456794"
+  },
+  "cuisine": "Mexican"
+}
+
+{ "index": { "_index": "restaurants", "_id": "dEfGH561iJKL6mN7oPQrsT8uVW912AbC" } }
+{
+  "name": "Italiano Ristorante",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/11iJKL6mN7oPQrsT8uVW912AbCdEfGH/o.jpg",
+  "url": "https://www.yelp.com/biz/italiano-ristorante-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 642,
+  "location": {
+    "address1": "152 Elm St",
+    "city": "New York",
+    "zip_code": "10016",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12122334461"
+  },
+  "cuisine": "Mexican"
+}
+
+{ "index": { "_index": "restaurants", "_id": "EfGH561iJKL6mN7oPQrsT8uVW912AbCd" } }
+{
+  "name": "BBQ Heaven",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/01iJKL6mN7oPQrsT8uVW912AbCdEfGH/o.jpg",
+  "url": "https://www.yelp.com/biz/bbq-heaven-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 784,
+  "location": {
+    "address1": "354 Pine St",
+    "city": "New York",
+    "zip_code": "10017",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12123456795"
+  },
+  "cuisine": "Mexican"
+}
+
+{ "index": { "_index": "restaurants", "_id": "fGH561iJKL6mN7oPQrsT8uVW912AbCdE" } }
+{
+  "name": "Mama's Kitchen",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/91iJKL6mN7oPQrsT8uVW912AbCdEfGH/o.jpg",
+  "url": "https://www.yelp.com/biz/mamas-kitchen-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 702,
+  "location": {
+    "address1": "556 Oak St",
+    "city": "New York",
+    "zip_code": "10018",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12122334462"
+  },
+  "cuisine": "Mexican"
+}
+
+{ "index": { "_index": "restaurants", "_id": "GH561iJKL6mN7oPQrsT8uVW912AbCdEf" } }
+{
+  "name": "Sushi Fusion",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/81iJKL6mN7oPQrsT8uVW912AbCdEfGH/o.jpg",
+  "url": "https://www.yelp.com/biz/sushi-fusion-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 631,
+  "location": {
+    "address1": "753 Birch St",
+    "city": "New York",
+    "zip_code": "10019",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12123456796"
+  },
+  "cuisine": "Mexican"
+}
+
+{ "index": { "_index": "restaurants", "_id": "561iJKL6mN7oPQrsT8uVW912AbCdEfGH5" } }
+{
+  "name": "Veggie Delight",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/61iJKL6mN7oPQrsT8uVW912AbCdEfGH/o.jpg",
+  "url": "https://www.yelp.com/biz/veggie-delight-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 745,
+  "location": {
+    "address1": "951 Elm St",
+    "city": "New York",
+    "zip_code": "10020",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12122334463"
+  },
+  "cuisine": "Mexican"
+}
+
+{ "index": { "_index": "restaurants", "_id": "61iJKL6mN7oPQrsT8uVW912AbCdEfGH56" } }
+{
+  "name": "Deli Delights",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/21iJKL6mN7oPQrsT8uVW912AbCdEfGH/o.jpg",
+  "url": "https://www.yelp.com/biz/deli-delights-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 698,
+  "location": {
+    "address1": "554 Pine St",
+    "city": "New York",
+    "zip_code": "10021",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12123456797"
+  },
+  "cuisine": "Mexican"
+}
+
+{ "index": { "_index": "restaurants", "_id": "1iJKL6mN7oPQrsT8uVW912AbCdEfGH561" } }
+{
+  "name": "Sushi Savor",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/31iJKL6mN7oPQrsT8uVW912AbCdEfGH/o.jpg",
+  "url": "https://www.yelp.com/biz/sushi-savor-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 676,
+  "location": {
+    "address1": "753 Cedar St",
+    "city": "New York",
+    "zip_code": "10022",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12122334464"
+  },
+  "cuisine": "Mexican"
+}
+
+{ "index": { "_index": "restaurants", "_id": "21iJKL6mN7oPQrsT8uVW912AbCdEfGH56" } }
+{
+  "name": "Taco Treat",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/41iJKL6mN7oPQrsT8uVW912AbCdEfGH/o.jpg",
+  "url": "https://www.yelp.com/biz/taco-treat-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 702,
+  "location": {
+    "address1": "951 Elmwood St",
+    "city": "New York",
+    "zip_code": "10023",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12123456798"
+  },
+  "cuisine": "Mexican"
+}
+
+{ "index": { "_index": "restaurants", "_id": "31iJKL6mN7oPQrsT8uVW912AbCdEfGH561" } }
+{
+  "name": "Mediterranean Feast",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/51iJKL6mN7oPQrsT8uVW912AbCdEfGH/o.jpg",
+  "url": "https://www.yelp.com/biz/mediterranean-feast-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 667,
+  "location": {
+    "address1": "752 Oakwood St",
+    "city": "New York",
+    "zip_code": "10024",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12122334465"
+  },
+  "cuisine": "Mexican"
+}
+
+{ "index": { "_index": "restaurants", "_id": "Indian1" } }
+{
+  "name": "Spice of India",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/61iJKL6mN7oPQrsT8uVW912AbCdEfGH/o.jpg",
+  "url": "https://www.yelp.com/biz/spice-of-india-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 805,
+  "location": {
+    "address1": "123 Curry St",
+    "city": "New York",
+    "zip_code": "10025",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12123456799"
+  },
+  "cuisine": "Indian"
+}
+
+{ "index": { "_index": "restaurants", "_id": "Indian2" } }
+{
+  "name": "Tandoori Delights",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/21iJKL6mN7oPQrsT8uVW912AbCdEfGH/o.jpg",
+  "url": "https://www.yelp.com/biz/tandoori-delights-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 789,
+  "location": {
+    "address1": "456 Naan Rd",
+    "city": "New York",
+    "zip_code": "10026",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12122334470"
+  },
+  "cuisine": "Indian"
+}
+
+{ "index": { "_index": "restaurants", "_id": "Indian3" } }
+{
+  "name": "Biryani Bazaar",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/11iJKL6mN7oPQrsT8uVW912AbCdEfGH/o.jpg",
+  "url": "https://www.yelp.com/biz/biryani-bazaar-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 732,
+  "location": {
+    "address1": "789 Saffron Blvd",
+    "city": "New York",
+    "zip_code": "10027",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12123456800"
+  },
+  "cuisine": "Indian"
+}
+
+{ "index": { "_index": "restaurants", "_id": "Indian4" } }
+{
+  "name": "Curry House",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/31iJKL6mN7oPQrsT8uVW912AbCdEfGH/o.jpg",
+  "url": "https://www.yelp.com/biz/curry-house-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 698,
+  "location": {
+    "address1": "987 Basmati St",
+    "city": "New York",
+    "zip_code": "10028",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12122334471"
+  },
+  "cuisine": "Indian"
+}
+
+{ "index": { "_index": "restaurants", "_id": "Indian5" } }
+{
+  "name": "Naan Nation",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/41iJKL6mN7oPQrsT8uVW912AbCdEfGH/o.jpg",
+  "url": "https://www.yelp.com/biz/naan-nation-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 742,
+  "location": {
+    "address1": "456 Roti Dr",
+    "city": "New York",
+    "zip_code": "10029",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12123456802"
+  },
+  "cuisine": "Indian"
+}
+
+{ "index": { "_index": "restaurants", "_id": "Indian6" } }
+{
+  "name": "Korma Kingdom",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/51iJKL6mN7oPQrsT8uVW912AbCdEfGH/o.jpg",
+  "url": "https://www.yelp.com/biz/korma-kingdom-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 765,
+  "location": {
+    "address1": "123 Tandoori Ave",
+    "city": "New York",
+    "zip_code": "10030",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12122334472"
+  },
+  "cuisine": "Indian"
+}
+
+{{ "index": { "_index": "restaurants", "_id": "Indian8" } }
+{
+  "name": "Taste of Curry",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/81iJKL6mN7oPQrsT8uVW912AbCdEfGH/o.jpg",
+  "url": "https://www.yelp.com/biz/taste-of-curry-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 722,
+  "location": {
+    "address1": "789 Chutney Rd",
+    "city": "New York",
+    "zip_code": "10031",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12123456803"
+  },
+  "cuisine": "Indian"
+}
+
+{ "index": { "__index": "restaurants", "_id": "Indian9" } }
+{
+  "name": "Mango Tree",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/91iJKL6mN7oPQrsT8uVW912AbCdEfGH/o.jpg",
+  "url": "https://www.yelp.com/biz/mango-tree-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 780,
+  "location": {
+    "address1": "456 Samosa St",
+    "city": "New York",
+    "zip_code": "10032",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12122334473"
+  },
+  "cuisine": "Indian"
+}
+
+{ "index": { "__index": "restaurants", "_id": "Indian10" } }
+{
+  "name": "Chana Chat Corner",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/01iJKL6mN7oPQrsT8uVW912AbCdEfGH/o.jpg",
+  "url": "https://www.yelp.com/biz/chana-chat-corner-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 795,
+  "location": {
+    "address1": "987 Biryani Dr",
+    "city": "New York",
+    "zip_code": "10033",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12123456804"
+  },
+  "cuisine": "Indian"
+}
+
+{ "index": { "__index": "restaurants", "_id": "Indian11" } }
+{
+  "name": "Kebab King",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/11iJKL6mN7oPQrsT8uVW912AbCdEfGH/o.jpg",
+  "url": "https://www.yelp.com/biz/kebab-king-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 748,
+  "location": {
+    "address1": "752 Roti Rd",
+    "city": "New York",
+    "zip_code": "10034",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12122334474"
+  },
+  "cuisine": "Indian"
+}
+
+{ "index": { "__index": "restaurants", "_id": "Indian12" } }
+{
+  "name": "Tikka Palace",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/21iJKL6mN7oPQrsT8uVW912AbCdEfGH/o.jpg",
+  "url": "https://www.yelp.com/biz/tikka-palace-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 756,
+  "location": {
+    "address1": "123 Biryani Ave",
+    "city": "New York",
+    "zip_code": "10035",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12123456805"
+  },
+  "cuisine": "Indian"
+}
+
+{ "index": { "__index": "restaurants", "_id": "Indian13" } }
+{
+  "name": "Paneer Paradise",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/31iJKL6mN7oPQrsT8uVW912AbCdEfGH/o.jpg",
+  "url": "https://www.yelp.com/biz/paneer-paradise-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 714,
+  "location": {
+    "address1": "456 Korma St",
+    "city": "New York",
+    "zip_code": "10036",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12122334475"
+  },
+  "cuisine": "Indian"
+}
+
+{ "index": { "__index": "restaurants", "_id": "Indian14" } }
+{
+  "name": "Bollywood Bites",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/41iJKL6mN7oPQrsT8uVW912AbCdEfGH/o.jpg",
+  "url": "https://www.yelp.com/biz/bollywood-bites-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 730,
+  "location": {
+    "address1": "789 Chai Rd",
+    "city": "New York",
+    "zip_code": "10037",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12123456806"
+  },
+  "cuisine": "Indian"
+}
+
+{ "index": { "__index": "restaurants", "_id": "Indian15" } }
+{
+  "name": "Chaat Corner",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/51iJKL6mN7oPQrsT8uVW912AbCdEfGH/o.jpg",
+  "url": "https://www.yelp.com/biz/chaat-corner-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 721,
+  "location": {
+    "address1": "123 Bhelpuri Ave",
+    "city": "New York",
+    "zip_code": "10038",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12122334476"
+  },
+  "cuisine": "Indian"
+}
+
+{ "index": { "__index": "restaurants", "_id": "Indian16" } }
+{
+  "name": "Mango Lassi Lounge",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/61iJKL6mN7oPQrsT8uVW912AbCdEfGH/o.jpg",
+  "url": "https://www.yelp.com/biz/mango-lassi-lounge-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium_api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 705,
+  "location": {
+    "address1": "456 Kulfi Rd",
+    "city": "New York",
+    "zip_code": "10039",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12123456807"
+  },
+  "cuisine": "Indian"
+}
+
+{ "index": { "__index": "restaurants", "_id": "Indian17" } }
+{
+  "name": "Garam Masala Grill",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/71iJKL6mN7oPQrsT8uVW912AbCdEfGH/o.jpg",
+  "url": "https://www.yelp.com/biz/garam-masala-grill-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium_api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 739,
+  "location": {
+    "address1": "789 Tikka Masala Dr",
+    "city": "New York",
+    "zip_code": "10040",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12122334477"
+  },
+  "cuisine": "Indian"
+}
+
+{ "index": { "__index": "restaurants", "_id": "Indian18" } }
+{
+  "name": "Pappadum Palace",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/81iJKL6mN7oPQrsT8uVW912AbCdEfGH/o.jpg",
+  "url": "https://www.yelp.com/biz/pappadum-palace-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium_api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 726,
+  "location": {
+    "address1": "456 Paratha St",
+    "city": "New York",
+    "zip_code": "10041",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12123456808"
+  },
+  "cuisine": "Indian"
+}
+{ "index": { "__index": "restaurants", "_id": "Indian20" } }
+{
+  "name": "Biryani Bliss",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/91iJKL6mN7oPQrsT8uVW912AbCdEfGH/o.jpg",
+  "url": "https://www.yelp.com/biz/biryani-bliss-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium_api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 711,
+  "location": {
+    "address1": "789 Masala Ave",
+    "city": "New York",
+    "zip_code": "10042",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12122334478"
+  },
+  "cuisine": "Indian"
+}
+
+{ "index": { "__index": "restaurants", "_id": "Indian21" } }
+{
+  "name": "Chutney Corner",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/01iJKL6mN7oPQrsT8uVW912AbCdEfGH/o.jpg",
+  "url": "https://www.yelp.com/biz/chutney-corner-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium_api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 740,
+  "location": {
+    "address1": "456 Tandoori Dr",
+    "city": "New York",
+    "zip_code": "10043",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12123456809"
+  },
+  "cuisine": "Indian"
+}
+
+{ "index": { "__index": "restaurants", "_id": "Indian22" } }
+{
+  "name": "Curry Castle",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/11iJKL6mN7oPQrsT8uVW912AbCdEfGH/o.jpg",
+  "url": "https://www.yelp.com/biz/curry-castle-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium_api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 755,
+  "location": {
+    "address1": "123 Kebab Rd",
+    "city": "New York",
+    "zip_code": "10044",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12122334479"
+  },
+  "cuisine": "Indian"
+}
+
+{ "index": { "__index": "restaurants", "_id": "Indian23" } }
+{
+  "name": "Tandoori Twist",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/21iJKL6mN7oPQrsT8uVW912AbCdEfGH/o.jpg",
+  "url": "https://www.yelp.com/biz/tandoori-twist-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium_api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 745,
+  "location": {
+    "address1": "456 Samosa Ave",
+    "city": "New York",
+    "zip_code": "10045",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12123456810"
+  },
+  "cuisine": "Indian"
+}
+
+{ "index": { "__index": "restaurants", "_id": "Indian24" } }
+{
+  "name": "Roti Republic",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/31iJKL6mN7oPQrsT8uVW912AbCdEfGH/o.jpg",
+  "url": "https://www.yelp.com/biz/roti-republic-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium_api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 733,
+  "location": {
+    "address1": "789 Paratha Ave",
+    "city": "New York",
+    "zip_code": "10046",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12122334480"
+  },
+  "cuisine": "Indian"
+}
+{ "index": { "__index": "restaurants", "_id": "Indian26" } }
+{
+  "name": "Naan Nation",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/51iJKL6mN7oPQrsT8uVW912AbCdEfGH/o.jpg",
+  "url": "https://www.yelp.com/biz/naan-nation-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium_api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 722,
+  "location": {
+    "address1": "456 Curry Rd",
+    "city": "New York",
+    "zip_code": "10047",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12123456811"
+  },
+  "cuisine": "Indian"
+}
+
+{ "index": { "__index": "restaurants", "_id": "Indian27" } }
+{
+  "name": "Spice Street",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/61iJKL6mN7oPQrsT8uVW912AbCdEfGH/o.jpg",
+  "url": "https://www.yelp.com/biz/spice-street-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium_api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 731,
+  "location": {
+    "address1": "789 Biryani Rd",
+    "city": "New York",
+    "zip_code": "10048",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12122334481"
+  },
+  "cuisine": "Indian"
+}
+
+{ "index": { "__index": "restaurants", "_id": "Indian28" } }
+{
+  "name": "Aloo Aroma",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/71iJKL6mN7oPQrsT8uVW912AbCdEfGH/o.jpg",
+  "url": "https://www.yelp.com/biz/aloo-aroma-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium_api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 726,
+  "location": {
+    "address1": "123 Korma Ave",
+    "city": "New York",
+    "zip_code": "10049",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12123456812"
+  },
+  "cuisine": "Indian"
+}
+
+{ "index": { "__index": "restaurants", "_id": "Indian29" } }
+{
+  "name": "Tikki Treats",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/81iJKL6mN7oPQrsT8uVW912AbCdEfGH/o.jpg",
+  "url": "https://www.yelp.com/biz/tikki-treats-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium_api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 729,
+  "location": {
+    "address1": "456 Bhelpuri St",
+    "city": "New York",
+    "zip_code": "10050",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12122334482"
+  },
+  "cuisine": "Indian"
+}
+
+{ "index": { "__index": "restaurants", "_id": "Italian1" } }
+{
+  "name": "Pasta Paradise",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/31iJKL6mN7oPQrsT8uVW912AbCdEfGH/o.jpg",
+  "url": "https://www.yelp.com/biz/pasta-paradise-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium_api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 701,
+  "location": {
+    "address1": "456 Spaghetti St",
+    "city": "New York",
+    "zip_code": "10051",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12123456813"
+  },
+  "cuisine": "Italian"
+}
+
+{ "index": { "__index": "restaurants", "_id": "Italian2" } }
+{
+  "name": "Pizza Palace",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/41iJKL6mN7oPQrsT8uVW912AbCdEfGH/o.jpg",
+  "url": "https://www.yelp.com/biz/pizza-palace-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium_api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 702,
+  "location": {
+    "address1": "789 Margherita Ave",
+    "city": "New York",
+    "zip_code": "10052",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12122334483"
+  },
+  "cuisine": "Italian"
+}
+
+{ "index": { "__index": "restaurants", "_id": "Italian3" } }
+{
+  "name": "Ristorante Roma",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/51iJKL6mN7oPQrsT8uVW912AbCdEfGH/o.jpg",
+  "url": "https://www.yelp.com/biz/ristorante-roma-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium_api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 703,
+  "location": {
+    "address1": "123 Linguine Dr",
+    "city": "New York",
+    "zip_code": "10053",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12123456814"
+  },
+  "cuisine": "Italian"
+}
+
+{ "index": { "__index": "restaurants", "_id": "Italian4" } }
+{
+  "name": "Olive Garden",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/61iJKL6mN7oPQrsT8uVW912AbCdEfGH/o.jpg",
+  "url": "https://www.yelp.com/biz/olive-garden-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium_api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 704,
+  "location": {
+    "address1": "456 Fettuccine Rd",
+    "city": "New York",
+    "zip_code": "10054",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12122334484"
+  },
+  "cuisine": "Italian"
+}
+
+{ "index": { "__index": "restaurants", "_id": "Italian5" } }
+{
+  "name": "Trattoria Toscana",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/71iJKL6mN7oPQrsT8uVW912AbCdEfGH/o.jpg",
+  "url": "https://www.yelp.com/biz/trattoria-toscana-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium_api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 705,
+  "location": {
+    "address1": "789 Calzone Ave",
+    "city": "New York",
+    "zip_code": "10055",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12123456815"
+  },
+  "cuisine": "Italian"
+}
+
+{ "index": { "__index": "restaurants", "_id": "Italian6" } }
+{
+  "name": "Mama Mia's Pizzeria",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/81iJKL6mN7oPQrsT8uVW912AbCdEfGH/o.jpg",
+  "url": "https://www.yelp.com/biz/mama-mias-pizzeria-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium_api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 706,
+  "location": {
+    "address1": "456 Cannoli St",
+    "city": "New York",
+    "zip_code": "10056",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12122334485"
+  },
+  "cuisine": "Italian"
+}
+
+{ "index": { "__index": "restaurants", "_id": "Italian8" } }
+{
+  "name": "La Pizzeria",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/101iJKL6mN7oPQrsT8uVW912AbCdEfGH/o.jpg",
+  "url": "https://www.yelp.com/biz/la-pizzeria-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium_api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 707,
+  "location": {
+    "address1": "123 Risotto Dr",
+    "city": "New York",
+    "zip_code": "10057",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12123456816"
+  },
+  "cuisine": "Italian"
+}
+
+{ "index": { "__index": "restaurants", "_id": "Italian9" } }
+{
+  "name": "Pasta Perfection",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/111iJKL6mN7oPQrsT8uVW912AbCdEfGH/o.jpg",
+  "url": "https://www.yelp.com/biz/pasta-perfection-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium_api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 708,
+  "location": {
+    "address1": "456 Penne Rd",
+    "city": "New York",
+    "zip_code": "10058",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12122334486"
+  },
+  "cuisine": "Italian"
+}
+
+{ "index": { "__index": "restaurants", "_id": "Italian10" } }
+{
+  "name": "Trattoria da Vinci",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/121iJKL6mN7oPQrsT8uVW912AbCdEfGH/o.jpg",
+  "url": "https://www.yelp.com/biz/trattoria-da-vinci-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium_api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 709,
+  "location": {
+    "address1": "789 Gnocchi Ave",
+    "city": "New York",
+    "zip_code": "10059",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12123456817"
+  },
+  "cuisine": "Italian"
+}
+
+{ "index": { "__index": "restaurants", "_id": "Italian11" } }
+{
+  "name": "Mangia e Bevi",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/131iJKL6mN7oPQrsT8uVW912AbCdEfGH/o.jpg",
+  "url": "https://www.yelp.com/biz/mangia-e-bevi-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium_api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 710,
+  "location": {
+    "address1": "456 Cannelloni St",
+    "city": "New York",
+    "zip_code": "10060",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12122334487"
+  },
+  "cuisine": "Italian"
+}
+
+{ "index": { "__index": "restaurants", "_id": "Italian12" } }
+{
+  "name": "Cucina Bella",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/141iJKL6mN7oPQrsT8uVW912AbCdEfGH/o.jpg",
+  "url": "https://www.yelp.com/biz/cucina-bella-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium_api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 711,
+  "location": {
+    "address1": "123 Ravioli Dr",
+    "city": "New York",
+    "zip_code": "10061",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12123456818"
+  },
+  "cuisine": "Italian"
+}
+
+{ "index": { "__index": "restaurants", "_id": "Italian13" } }
+{
+  "name": "Gelato Gusto",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/151iJKL6mN7oPQrsT8uVW912AbCdEfGH/o.jpg",
+  "url": "https://www.yelp.com/biz/gelato-gusto-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium_api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 712,
+  "location": {
+    "address1": "456 Tiramisu St",
+    "city": "New York",
+    "zip_code": "10062",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12122334488"
+  },
+  "cuisine": "Italian"
+}
+
+{ "index": { "__index": "restaurants", "_id": "Italian14" } }
+{
+  "name": "Gnocchi Grotto",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/161iJKL6mN7oPQrsT8uVW912AbCdEfGH/o.jpg",
+  "url": "https://www.yelp.com/biz/gnocchi-grotto-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium_api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 713,
+  "location": {
+    "address1": "789 Orecchiette Ave",
+    "city": "New York",
+    "zip_code": "10063",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12123456819"
+  },
+  "cuisine": "Italian"
+}
+
+{ "index": { "__index": "restaurants", "_id": "Italian15" } }
+{
+  "name": "Pizza Pronto",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/171iJKL6mN7oPQrsT8uVW912AbCdEfGH/o.jpg",
+  "url": "https://www.yelp.com/biz/pizza-pronto-new-york?adjust_creative=rJPpssTzbV30Lmfo6AlTtQ&utm_campaign=yelp_api_v3&utm_medium_api_v3_business_search&utm_source=rJPpssTzbV30Lmfo6AlTtQ",
+  "review_count": 714,
+  "location": {
+    "address1": "456 Lasagna St",
+    "city": "New York",
+    "zip_code": "10064",
+    "country": "US",
+    "state": "NY",
+    "phone": "+12122334489"
+  },
+  "cuisine": "Italian"
+}
+
