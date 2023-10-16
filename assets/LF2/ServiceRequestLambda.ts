@@ -1,12 +1,9 @@
-import {Handler, SQSEvent} from "aws-lambda";
-import {SQS, DynamoDB} from "aws-sdk";
-import {Client} from "@elastic/elasticsearch";
-import {SendEmailCommand, SESClient} from "@aws-sdk/client-ses";
+import { Handler, SQSEvent } from "aws-lambda";
+import { SQS, DynamoDB } from "aws-sdk";
+import axios from 'axios';
+import { SendEmailCommand, SESClient } from "@aws-sdk/client-ses";
 
 const dynamoDbClient = new DynamoDB();
-const elasticSearchClient = new Client({
-    node: 'https://search-restaurants-noe3v4hr6z2haev5f4tz4bsll4.us-east-1.es.amazonaws.com/',
-});
 const sqsClient = new SQS();
 const sesClient = new SESClient();
 
@@ -24,15 +21,20 @@ async function getRestaurantId(cuisine: string) {
 
     let restaurantId: string | null = null;
     try {
-        const response = await elasticSearchClient.search(query);
+        const response = await axios.get(`${process.env.ES_URL}/${process.env.ES_IDX}`,
+            {
+                params: { query: 'chinese' },
+                auth: { username: process.env.ES_USER!, password: process.env.ES_PASS! }
+            });
 
         // @ts-ignore
-        console.log('Response: ', response.hits.hits[0]._source.name);
+        console.log('Response: ', JSON.stringify(response.data));
 
-        const hitRandomIndex = Math.floor(Math.random() * response.hits.hits.length);
+        // const hitRandomIndex = Math.floor(Math.random() * response.hits.hits.length);
 
-        // @ts-ignore
-        restaurantId = response.hits.hits[hitRandomIndex]._source.id! as string;
+        // // @ts-ignore
+        // restaurantId = response.hits.hits[hitRandomIndex]._source.id! as string;
+        restaurantId = "pBNMZp_tKCAfRNx7-ybcHQ"
     } catch (error) {
         console.error('Error: ', error);
         throw error;
@@ -98,9 +100,11 @@ async function sendReservationEmail() {
     }
 }
 
-export const handler: Handler = async function(event: SQSEvent): Promise<void> {
+export const handler: Handler = async function (event: SQSEvent): Promise<void> {
     for (const record of event.Records) {
         try {
+            console.log("Got the message")
+            console.log(record.messageAttributes.EmailAddress.stringValue!)
             const restaurantId = await getRestaurantId(record.messageAttributes.Cuisine.stringValue!);
 
             const restaurantInformation = await getRestaurantInformation(
